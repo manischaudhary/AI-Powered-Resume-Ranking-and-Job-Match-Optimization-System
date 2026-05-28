@@ -1,0 +1,22 @@
+Job Description:
+·      Create, validate and send daily, weekly, and monthly management reports to clients
+·      Assistance with requests for non-standard reports and analysis for clients
+·      Support management reporting by maintaining the hierarchy of information Research and answering clients’ questions
+·      Perform business-to-system analysis and troubleshooting analysis of complex management reports and business problems with guidance
+·      In the report, development lifecycle support impact analysis and project requirements definition
+·      Transform client needs into functional requirements
+·      With guidance, collect, analyze and document business requirements for project proposals including but not limited to process and data flow, user interface, security, and reporting requirements
+·      Together with managers and/or senior analysts, participate in cross-functional meetings where customers are interviewed to understand customer needs and identify problems and appropriate solutions, develop specifications, analyze and document business processes, validate testing processes, and train the user community.
+·      Support teamwork and get internal and external client feedback on processes, procedures, and technology
+
+Requirements:
+·      Masters’ degree in Computer Science, Computer Engineering, or any related field of study
+·      Job duties are project-based and performed on long-term assignments at various unanticipated sites within the U.S. which may require relocation at the end of each project
+·      Advanced Excel skills (pivot tables, v-lookups, and charts). Experience using the relational database system, Oracle preferred
+·      Excellent oral and written communication skills. Understanding of software development life cycle
+·      Must know how to use Power BI or Tableau
+·      Experience with hands-on and manual data tasks Excellent analytical skills
+·      Ability to handle multiple projects under tight deadlines
+·      Attention to detail and ability to follow instructions and written processes to deliver requirements
+
+We do not discriminate based on race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law.
